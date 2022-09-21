@@ -1,5 +1,5 @@
 # ECG_Image_Preprocessing
-Traitement des images d'électrocardiogrammes
+Traitement des images d'électrocardiogrammes : Résultat finale (ECG_Final_Preprocessing.ipynb)
 - Rogner l'image
 - Extraction des dérivations concernées par la fibrillation auriculaire
 - Transformation en nuance de gris : lissage, seuillage Otsu
