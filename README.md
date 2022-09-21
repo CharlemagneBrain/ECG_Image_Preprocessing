@@ -7,5 +7,5 @@ Traitement des images d'électrocardiogrammes : Résultat final (ECG_Final_Prepr
 - Passer les valeurs booléennes de l'image binaire au numérique (True/False => 0/1) pour la suite des opérations
 - Passer l'image au négatif (255 - Img)
 - Transformation de la matrice représentant l'image en un vecteur numérique afin de retrouver le signal
-- ***Petit Problème*** : les traits verticaux présent sur l'électrocardiogramme représente du bruit qui n'a pas pu être défait malgré les opérations de   traitement d'image morphologique
+-   ***NB*** : les traits verticaux présents sur l'électrocardiogramme représente du bruit qui n'a pas pu être défait malgré les opérations de   traitement d'image morphologique
 
